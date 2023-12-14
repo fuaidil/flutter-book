@@ -1,0 +1,144 @@
+{
+  "models": [
+    {
+      "id": "1",
+      "image": "assets/images/laskar-pelangi.png",
+      "location": "Rp 50.000",
+      "name": "Laskar Pelangi",
+      "distance": 50,
+      "desc": "Buku Fiksi Laskar Pelangi",
+      "category": "Fiksi",
+      "rate": "4.4"
+    },
+    {
+      "id": "2",
+      "image": "assets/images/politik.jpg",
+      "location": "Rp 60.000",
+      "name": "Politik Identitas",
+      "distance": 47,
+      "desc": "Buku Politik",
+      "category": "Politik",
+      "rate": "4.5"
+    },
+    {
+      "id": "3",
+      "image": "assets/images/sains.jpg",
+      "location": "Rp 40.000",
+      "name": "Sains Modern",
+      "distance": 20,
+      "desc": "Buku Sains Modern",
+      "category": "Sains",
+      "rate": "4.1"
+    },
+    {
+      "id": "4",
+      "image": "assets/images/buya-hamka.jpeg",
+      "location": "Rp 70.000",
+      "name": "Buya Hamka",
+      "distance": 20,
+      "desc": "Novel Buya Hamka",
+      "category": "Novel",
+      "rate": "4.8"
+    },
+    {
+      "id": "5",
+      "image": "assets/images/alice-wonderland.jpg",
+      "location": "Rp 50.000",
+      "name": "Alice in Wonderland",
+      "distance": 15,
+      "desc": "Classic novel by Lewis Carroll",
+      "category": "Novel",
+      "rate": "4.5"
+    },
+    {
+      "id": "6",
+      "image": "assets/images/dystopian-world.jpg",
+      "location": "Rp 90.000",
+      "name": "Dystopian World",
+      "distance": 25,
+      "desc": "A gripping fiction about a dystopian society",
+      "category": "Fiksi",
+      "rate": "4.2"
+    },
+    {
+      "id": "7",
+      "image": "assets/images/political-power.jpg",
+      "location": "Rp 120.000",
+      "name": "The Art of Political Power",
+      "distance": 18,
+      "desc": "Insights into the dynamics of political power",
+      "category": "Politik",
+      "rate": "4.7"
+    },
+    {
+      "id": "8",
+      "image": "assets/images/einstein-biography.jpg",
+      "location": "Rp 75.000",
+      "name": "Einstein: A Biography",
+      "distance": 22,
+      "desc": "Biography of the renowned physicist Albert Einstein",
+      "category": "Sains",
+      "rate": "4.9"
+    },
+    {
+      "id": "9",
+      "image": "assets/images/harry-potter.png",
+      "location": "Rp 60.000",
+      "name": "Harry Potter and the Sorcerer's Stone",
+      "distance": 20,
+      "desc": "The first book in the Harry Potter series",
+      "category": "Novel",
+      "rate": "4.8"
+    },
+    {
+      "id": "10",
+      "image": "assets/images/sci-fi-adventure.jpg",
+      "location": "Rp 85.000",
+      "name": "Allied Command",
+      "distance": 28,
+      "desc": "An adventurous journey in a futuristic world",
+      "category": "Fiksi",
+      "rate": "4.4"
+    },
+    {
+      "id": "11",
+      "image": "assets/images/global-politics.jpg",
+      "location": "Rp 110.000",
+      "name": "Global Politics Today",
+      "distance": 16,
+      "desc": "Insights into contemporary global political issues",
+      "category": "Politik",
+      "rate": "4.6"
+    },
+    {
+      "id": "12",
+      "image": "assets/images/discover-physics.jpg",
+      "location": "Rp 95.000",
+      "name": "Discover Physics",
+      "distance": 24,
+      "desc": "A journey through the principles of physics",
+      "category": "Sains",
+      "rate": "4.3"
+    },
+    {
+      "id": "13",
+      "image": "assets/images/lord-rings.jpg",
+      "location": "Rp 55.000",
+      "name": "The Lord of the Rings",
+      "distance": 19,
+      "desc": "Epic fantasy novel by J.R.R. Tolkien",
+      "category": "Novel",
+      "rate": "4.7"
+    },
+    {
+      "id": "14",
+      "image": "assets/images/mystery-thriller.jpg",
+      "location": "Rp 75.000",
+      "name": "The Silent Patient",
+      "distance": 21,
+      "desc": "A collection of gripping mystery thrillers",
+      "category": "Fiksi",
+      "rate": "4.6"
+    }
+  ]
+}
